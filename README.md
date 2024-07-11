@@ -23,3 +23,8 @@
   * 한글설정 라이브러리
 
  <br><br>
+
+### Code Review
+
+1. DB package : AppDatabase | MyApp | TodoDao | TodoEntity
+   - 
